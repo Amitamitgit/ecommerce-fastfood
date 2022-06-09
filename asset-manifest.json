@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecommerce-fastfood/static/css/main.4261bba6.css",
+    "main.js": "/ecommerce-fastfood/static/js/main.5354f72c.js",
+    "static/media/596343.jpg": "/ecommerce-fastfood/static/media/596343.4660902cdd04fa754b22.jpg",
+    "static/media/thumb-1920-959369 - Copy.jpg": "/ecommerce-fastfood/static/media/thumb-1920-959369 - Copy.c2055e90e05baff9ed57.jpg",
+    "static/media/gettyimages-971670036-612x612.jpg": "/ecommerce-fastfood/static/media/gettyimages-971670036-612x612.b2bc48f834bbc4a81ac3.jpg",
+    "index.html": "/ecommerce-fastfood/index.html",
+    "main.4261bba6.css.map": "/ecommerce-fastfood/static/css/main.4261bba6.css.map",
+    "main.5354f72c.js.map": "/ecommerce-fastfood/static/js/main.5354f72c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4261bba6.css",
+    "static/js/main.5354f72c.js"
+  ]
+}
